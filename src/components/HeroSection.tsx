@@ -95,7 +95,7 @@ export default function HeroSection() {
               {/* Layer 2: Shape Mask Clipped Portait (Using border radius to create beautiful arch) */}
               <div className="absolute inset-0 bg-slate-beige rounded-t-[160px] overflow-hidden border border-slate-beige shadow-lg group">
                 <img
-                  src="https://picsum.photos/seed/viplavsangani/800/1000?grayscale"
+                  src=""
                   alt="Viplav Sangani Portrait"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover grayscale contrast-110 hover:scale-105 transition-transform duration-700"
